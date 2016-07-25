@@ -1,4 +1,4 @@
-#doghouse
+#dogfood
 **a scaffolder that builds a house for the [dog(stack)](https://www.npmjs.com/package/dogstack)**
 
 ## PRIOR ART
@@ -27,10 +27,10 @@ for now, pretty much a rip of [initialize-project](https://github.com/yoshuawuyt
 
 ## API
 
-install globally to use: `npm install -g doghouse`
+install globally to use: `npm install -g dogfood`
 
-- generate a new dogstack app: `doghouse -a -n NAME -d DIRECTORY`
-- generate a new dogstack concept: `doghouse -n NAME -d DIRECTORY`
+- generate a new dogstack app: `dogfood -a -n NAME -d DIRECTORY`
+- generate a new dogstack concept: `dogfood -n NAME -d DIRECTORY`
 
 ## IDEAS
 
