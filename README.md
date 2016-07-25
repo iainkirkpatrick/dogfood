@@ -1,5 +1,5 @@
 #dogfood
-**a scaffolder that builds a house for the [dog(stack)](https://www.npmjs.com/package/dogstack)**
+**a scaffolder that feeds the [dog(stack)](https://www.npmjs.com/package/dogstack)**
 
 ## PRIOR ART
 
@@ -34,6 +34,6 @@ install globally to use: `npm install -g dogfood`
 
 ## IDEAS
 
-- in the future, this will probably need to be able to spin up dogstack and dogfood apps (client and server)
+- in the future, this will probably need to be able to spin up dogstack and doghouse apps (client and server)
 - fork of [copy-template-dir](https://github.com/yoshuawuyts/copy-template-dir) so that it can generate filenames named after the name arg?
 - what about easy deployment handling? is that a different module? (dogrocket? dogwheels?)
