@@ -1,6 +1,6 @@
 {
   "name": "dogfood",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a scaffolder that feeds the dog(stack)",
   "main": "index.js",
   "scripts": {
