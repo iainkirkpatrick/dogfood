@@ -10,6 +10,7 @@
 
 - cli tool for scaffolding out a dogstack app
 - cli tool for generating new 'concepts' for a dogstack app (concept == folder structure for each 'piece' of the app)
+- can't believe no-one had this name on npm
 
 for now, pretty much a rip of [initialize-project](https://github.com/yoshuawuyts/initialize-project) but to use dogstack, i'll play around with it over time
 
